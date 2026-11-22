@@ -1,0 +1,11 @@
+{
+  "name": "belizna",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate.js",
+    "test": "node --test js/pricing.test.js js/order-mail.test.js",
+    "check": "node scripts/check.js",
+    "start": "node scripts/serve.js"
+  }
+}

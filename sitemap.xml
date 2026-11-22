@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>/katalog/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>/katalog/sredstva-dlya-stirki/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/katalog/sredstva-dlya-posudy/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/katalog/dezinfitsiruyushchie-sredstva/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/katalog/uborka-poverhnostey/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/klienty/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>/klienty/oteli/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/klienty/restorany/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/klienty/gostinitsy/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/klienty/proizvodstva/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/klienty/himchistki/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/klienty/prachechnye-samoobsluzhivaniya/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/klienty/sotsialnye-uchrezhdeniya/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/aktsii/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/postupleniya/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/bonusy/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>/dannye/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>/karta-sayta/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+</urlset>
